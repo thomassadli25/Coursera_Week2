@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587471122285.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7664F14C",
+    "lastKnownWriteTime" : 1587471193,
+    "last_content_update" : 1587471193422,
+    "path" : "~/Coursera_Week2/RStudio Tour.R",
+    "project_path" : "RStudio Tour.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

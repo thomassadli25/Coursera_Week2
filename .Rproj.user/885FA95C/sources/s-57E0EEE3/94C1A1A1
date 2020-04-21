@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587471041316.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "94C1A1A1",
+    "lastKnownWriteTime" : 1587472541,
+    "last_content_update" : 1587472541802,
+    "path" : "~/Coursera_Week2/RStudios Packages Function.R",
+    "project_path" : "RStudios Packages Function.R",
+    "properties" : {
+        "cursorPosition" : "5,35",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
